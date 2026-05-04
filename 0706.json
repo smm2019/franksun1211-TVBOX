@@ -3,7 +3,7 @@
     "spider": "https://github.com/ls125781003/tvboxtg/raw/main/摸鱼儿/spider.jar",
     "wallpaper": "http://bobohome.ignorelist.com:20247/bing",
     "logo": "https://github.com/franksun1211/TVBOX/raw/main/sun.jpg",
-	"notice": "[0706JJ]CK20260503-G 🍏",
+	"notice": "[0706JJ]CK20260503-H 🍏",
     "sites": [
         {
             "key": "Douban",
@@ -309,13 +309,7 @@
 			"jar": "https://github.com/ls125781003/tvboxtg/raw/refs/heads/main/%E9%A5%AD%E5%A4%AA%E7%A1%AC/spider.jar",
 			"changeable": 1
         }, 
-		 {
-            "key": "韩圈",
-            "name": "🥇韩圈✨｜APP",
-            "type": 3,
-            "api": "csp_Hxq",
-            "ext": "https://fishapi.wya6.com/fish/fishhxq.php"
-        },      
+		
      
        {
             "key": "爱你影视",
@@ -342,40 +336,23 @@
             "ext": "https://github.com/franksun1211/TXT/raw/main/HTB/PG/json/影视大全.json"
         },
         
+{"key":"賤","name":"🥇嗷嗚賤片✨","type":3,"api":"https://github.com/franksun1211/TXT/raw/main/TVbox/VS194-SU147/drpy_js/賤.py","searchable":1,"filterable":0,"changeable":0,"jar": "https://github.com/franksun1211/TXT/raw/main/TVbox/VS194-SU147/yt.jar"},
+//{"key":"优视频","name":"🥇嗷嗚优视频","type":4,"changeable":0,"api":"https://www.uvod.tv","jar": "https://github.com/franksun1211/TXT/raw/main/TVbox/VS194-SU147/yt.jar"},
+{"key":"金牌","name":"🥇嗷嗚金牌✨","type":3,"api":"https://github.com/franksun1211/TXT/raw/main/TVbox/VS194-SU147/drpy_js/金牌.py","searchable":1,"filterable":0,"changeable":0,"jar": "https://github.com/franksun1211/TXT/raw/main/TVbox/VS194-SU147/yt.jar"},
+//{"key":"爱瓜","name":"🥇嗷嗚爱瓜✨","type":3,"api":"https://github.com/franksun1211/TXT/raw/main/TVbox/VS194-SU147/drpy_js/爱瓜.py","searchable":1,"filterable":0,"changeable":0,"jar": "https://github.com/franksun1211/TXT/raw/main/TVbox/VS194-SU147/yt.jar"},
+{"key":"永乐","name":"🥇嗷嗚永乐✨","type":3,"api":"https://github.com/franksun1211/TXT/raw/main/TVbox/VS194-SU147/drpy_js/永乐.py","searchable":1,"filterable":0,"changeable":0,"jar": "https://github.com/franksun1211/TXT/raw/main/TVbox/VS194-SU147/yt.jar"},
+{"key":"瓜子","name":"🥇嗷嗚瓜子✨","type":3,"changeable":0,"api":"https://github.com/franksun1211/TXT/raw/main/TVbox/VS194-SU147/drpy_libs/drpy2.min.js","ext":"https://github.com/franksun1211/TXT/raw/main/TVbox/VS194-SU147/drpy_js/瓜子.js","jar": "https://github.com/franksun1211/TXT/raw/main/TVbox/VS194-SU147/yt.jar"},
 
+{"key":"嗷呜金牌影院","name":"🥇嗷呜金牌荐片✨","type":3,"api":"https://tvbot.dpdns.org/py_jinpai.py"},	
         
         
      
 		
-		{
-            "key": "立播",
-            "name": "🥇LibVio✨┃FTY",
-            "type": 3,
-            "api": "csp_LibvioGuard",
-            "timeout": 15,
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1,
-			"jar": "https://github.com/ls125781003/tvboxtg/raw/refs/heads/main/%E9%A5%AD%E5%A4%AA%E7%A1%AC/spider.jar",
-            "ext": {
-                "Cloud-drive": "http://127.0.0.1:9978/file/TVBox/Cloud-drive.txt",
-                "from": "4k|auto"
-            }
-        },
+		
         
         
 
-{
-            "key": "云播",
-            "name": "🥇云播｜APP",
-            "type": 3,
-            "api": "csp_AppFox",
-            "searchable": 1,
-            "changeable": 1,
-            "ext": {
-                "host": "http://app.hktvyb.cc"
-            }
-        },
+
 		/////////////////////////////
         {
             "key": "ALLLive",
