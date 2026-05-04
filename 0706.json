@@ -593,7 +593,7 @@
         },
         {
             "key": "Jianpian",
-            "name": "🥇荐片✨｜磁力",
+            "name": "🥇賤荐✨｜磁力",
             "type": 3,
             "api": "csp_Jianpian",
             "searchable": 1,
