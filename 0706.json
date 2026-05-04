@@ -3,7 +3,7 @@
     "spider": "https://github.com/ls125781003/tvboxtg/raw/main/摸鱼儿/spider.jar",
     "wallpaper": "http://bobohome.ignorelist.com:20247/bing",
     "logo": "https://github.com/franksun1211/TVBOX/raw/main/sun.jpg",
-	"notice": "[0706JJ]CK20260504-A 🍏",
+	"notice": "[0706JJ]CK20260504-C 🍏",
     "sites": [
         {
             "key": "Douban",
@@ -227,15 +227,7 @@
                 "ratio": 1.433
             }
         },
-        {
-            "key": "DianYingYunJi",
-            "name": "云集｜4K",
-            "type": 3,
-            "api": "csp_DianYingYunJi",
-            "searchable": 1,
-"timeout": 90,
-            "changeable": 1
-        },
+        
         {
             "key": "YunPanBa",
             "name": "盘吧｜4K",
