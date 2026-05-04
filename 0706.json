@@ -1,7 +1,7 @@
 {
     "spider": "https://github.com/ls125781003/tvboxtg/raw/main/摸鱼儿/spider.jar",
    "logo": "https://github.com/franksun1211/TVBOX/raw/main/sun.jpg",
-	"notice": "[0706JJ]CK20260504-B 🍏",
+	"notice": "[0706JJ]CK20260504-C 🍏",
     "wallpaper": "http://127.0.0.1:9978/proxy?do=wallpaper",
     "sites": [
         {
@@ -105,22 +105,137 @@
                 "type": "list"
             }
         },	
-{
-            "key": "Libvio",
-            "name": "立播｜4K",
+ {
+            "key": "蜡笔",
+            "name": "🥇蜡笔✨｜4K",
             "type": 3,
-            "api": "csp_Libvio",
+            "api": "csp_PanWebShare",
             "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
             "changeable": 1,
-"timeout": 90,
             "ext": {
                 "site": [
-                    "https://www.libvio.in",
-                    "https://www.libvio.la",
-                    "https://www.libvio.site",
-                    "https://www.libvio.mov"
+                    "http://xiaocge.fun",
+                    "http://feimo.fun",
+                    "https://feimao666.fun",
+                    "http://feimao888.fun",
+                    "http://www.labi88.sbs",
+                    "http://fmao.site",
+                    "http://fmao.shop",
+                    "http://xiaocgege.shop"
                 ]
-            }
+            },
+            "timeout": 90
+        },
+		{
+            "key": "人人",
+            "name": "🥇人人｜4K",
+            "type": 3,
+            "api": "csp_RenRen"
+        },
+       {
+            "key": "双星",
+            "name": "🥇双星｜4K",
+            "type": 3,
+		    "timeout": 90,
+            "api": "csp_ShuangXing"
+            
+        },
+        {
+            "key": "至臻",
+            "name": "🥇至臻✨｜4K",
+            "type": 3,
+            "api": "csp_PanWebShare",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1,
+            "ext": {
+                "site": [
+                    "https://mihdr.top",
+                    "https://www.miqk.cc",
+                    "https://xiaomiai.site",
+                    "https://xiaomi666.fun",
+                    "https://www.mihdr.top",
+                    "https://www.zhizhenpan.fun"
+                ]
+             },
+            "timeout": 90
+        },
+       
+        {
+            "key": "欧哥",
+            "name": "🥇欧哥✨｜4K",
+            "type": 3,
+            "api": "csp_PanWebShare",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1,
+            "ext": {
+                "site": [
+                    "https://woog.nxog.eu.org",
+                    "https://woog.nxog.fun",
+                    "https://woog.nxog.eu.org",
+                    "https://woog.430520.xyz"
+                ]
+            },
+            "timeout": 90
+        },
+		 {
+            "key": "夸克",
+            "name": "🥇夸克✨｜4K",
+            "type": 3,
+            "api": "csp_PanWebShareCloudKK",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1,
+            "ext": {
+                "site": [
+                    "https://www.quarktv.cc"
+                ]
+            },
+            "timeout": 90
+        },
+       
+        
+        {
+            "key": "夸父",
+            "name": "🥇💢夸父✨｜4K",
+            "type": 3,
+            "api": "csp_PanWebShareCloudKF",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1,
+            "style": {
+                
+                "ratio": 1.433
+            },
+            "ext": {
+                "site": [
+                    "https://www.kfjwzz.com"
+                ],
+                "cookie": "bbs_sid=bi7dpnm6vp31s38rjqlqq8vq84; bbs_token=TWiR3YUrGoVpbdTkjAJ0xMe_2B_2FiaFvd84V3_2FEZJRRSKU_3D"
+             },
+            "timeout": 90
+        },
+		{
+            "key": "夸克云盘",
+            "name": "🥇我的夸克✨",
+            "type": 3,
+            "api": "csp_PanQuark",
+            "searchable": 0,
+            "filterable": 0,
+            "changeable": 0,
+            "style": {
+                "type": "list",
+                "ratio": 1.433
+            },
+            "ext": "https://github.com/qist/tvbox/raw/master/xiaosa/json/quarkShare.json",
+			 "timeout": 90
         },
         {
             "key": "ALLLive",
@@ -294,205 +409,7 @@
             "changeable": 1,
             "ext": "AXKrbZM79eMAGzneN3Wkitxcf6NgrYa8FRcHB2RFYrIa1DzrMAA3EZXW6am5C78oAR/IcCmhk7ghFpBqEJ8/VC63AO40BE4oVlRZpiP8nHBpCnKhO9Ve26VcA8pR6Hj5NaeQHhkhkHLBDW4qlc86fpzDMK0o7K0sPvglsUwQxl6I4IDKDzXlVF4su1fy63GpLqrj+BMY1G2OjVsC6G7XBRg="
         },
-        {
-            "key": "Libvio",
-            "name": "立播｜4K",
-            "type": 3,
-            "api": "csp_Libvio",
-            "searchable": 1,
-            "changeable": 1,
-            "ext": {
-                "site": [
-                    "https://www.libvio.in",
-                    "https://www.libvio.la",
-                    "https://www.libvio.site",
-                    "https://www.libvio.mov"
-                ]
-            }
-        },
-        {
-            "key": "KZN",
-            "name": "指南｜4K",
-            "type": 3,
-            "api": "csp_KZN",
-            "searchable": 1,
-            "changeable": 1
-        },
-        {
-            "key": "Qiwei",
-            "name": "七味｜4K",
-            "type": 3,
-            "api": "csp_Qiwei",
-            "searchable": 1,
-            "filterable": 0,
-            "ext": {
-                "site": [
-                    "https://www.qwnull.com",
-                    "https://www.qwmkv.com",
-                    "https://www.qwfilm.com",
-                    "https://www.qnmp4.com",
-                    "https://www.qnnull.com",
-                    "https://www.qnhot.com",
-                    "https://www.qncool.com"
-                ]
-            }
-        },
-        {
-            "key": "gying",
-            "name": "观影｜4K",
-            "type": 3,
-            "api": "csp_Gying",
-            "searchable": 1,
-            "quickSearch": 0,
-            "filterable": 0,
-            "ext": {
-                "cookie": "",
-                "site": [
-                    "https://www.教父.com",
-                    "https://www.星际穿越.com",
-                    "https://www.楚门的世界.com",
-                    "https://www.泰坦尼克号.com",
-                    "https://www.盗梦空间.com",
-                    "https://www.肖申克的救赎.com",
-                    "https://www.阿甘正传.com",
-                    "https://www.黑客帝国.com"
-                ]
-            }
-        },
-        {
-            "key": "FishLabi",
-            "name": "蜡笔｜4K",
-            "type": 3,
-            "api": "csp_FishCloud",
-            "searchable": 1,
-            "ext": {
-                "site": [
-                    "https://feimao666.fun",
-                    "http://xiaocge.fun",
-                    "http://feimo.fun",
-                    "https://feimao666.fun",
-                    "http://fmao.site",
-                    "http://fmao.shop",
-                    "http://xiaocgege.shop"
-                ]
-            }
-        },
-        {
-            "key": "FishZhizhen",
-            "name": "至臻｜4K",
-            "type": 3,
-            "api": "csp_FishCloud",
-            "searchable": 1,
-            "ext": {
-                "site": [
-                    "https://mihdr.top",
-                    "https://www.mihdr.top",
-                    "https://www.miqk.cc",
-                    "https://zhizhenpan.com/",
-                    "https://zhizhen8.click",
-                    "https://www.zhizhen8.click"
-                ]
-            }
-        },
-        {
-            "key": "FishDuoduo",
-            "name": "多多｜4K",
-            "type": 3,
-            "api": "csp_FishCloud",
-            "searchable": 1,
-            "ext": {
-                "site": [
-                    "https://tv.yydsys.top",
-                    "https://tv.yydsys.cc",
-                    "https://tv.214521.xyz"
-                ]
-            }
-        },
-        {
-            "key": "FishErxiao",
-            "name": "二小｜4K",
-            "type": 3,
-            "api": "csp_FishCloud",
-            "searchable": 1,
-            "ext": {
-                "site": [
-                    "https://www.erixaopan.fun",
-                    "https://www.wexwp.cc",
-                    "https://wexwp.cc",
-                    "https://2xiaopan.top",
-                    "https://www.2xiaopan.top"
-                ]
-            }
-        },
-        {
-            "key": "FishHuban",
-            "name": "虎斑｜4K",
-            "type": 3,
-            "api": "csp_FishCloud",
-            "searchable": 1,
-            "ext": {
-                "site": [
-                    "http://103.45.162.207:20720"
-                ]
-            }
-        },
-        {
-            "key": "LeiJing",
-            "name": "雷鲸｜4K",
-            "type": 3,
-            "api": "csp_LeiJing",
-            "searchable": 1,
-            "changeable": 1,
-            "ext": {
-                "site": [
-                    "https://www.leijing.xyz",
-                    "https://www.leijing1.com",
-                    "https://leijing1.com"
-                ],
-                "cookie": ""
-            }
-        },
-        {
-            "key": "PanTa",
-            "name": "盘它｜4K",
-            "type": 3,
-            "api": "csp_PanTa",
-            "searchable": 1,
-            "changeable": 1
-        },
-        {
-            "key": "夸父",
-            "name": "夸父｜4K",
-            "type": 3,
-            "api": "csp_FishKF",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 1,
-            "style": {
-                "type": "list",
-                "ratio": 1.433
-            },
-            "ext": {
-                "site": [
-                    "https://www.kfjwzz.com"
-                ],
-                "cookie": ""
-            }
-        },
-        {
-            "key": "ShuangXing",
-            "name": "双星｜4K",
-            "type": 3,
-            "api": "csp_ShuangXing",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1,
-            "style": {
-                "type": "list",
-                "ratio": 1.433
-            }
-        },
+        
         {
             "key": "DianYingYunJi",
             "name": "云集｜4K",
@@ -613,6 +530,16 @@
             "filterable": 1
         },
         {
+            "key": "AoWu",
+            "name": "🥇💢嗷呜✨｜动漫",
+            "type": 3,
+            "api": "csp_AoWu",
+            "searchable": 1,
+			 "jar": "https://github.com/ls125781003/tvboxtg/raw/main/摸鱼儿/spider.jar",
+            "quickSearch": 1,
+            "filterable": 1
+        },
+		{
             "key": "番薯动漫",
             "name": "番薯丨动漫",
             "type": 3,
