@@ -3,7 +3,7 @@
     "spider": "https://github.com/ls125781003/tvboxtg/raw/main/摸鱼儿/spider.jar",
     "wallpaper": "http://bobohome.ignorelist.com:20247/bing",
     "logo": "https://github.com/franksun1211/TVBOX/raw/main/sun.jpg",
-	"notice": "[0706JJ]CK20260504 🍏",
+	"notice": "[0706JJ]CK20260504-A 🍏",
     "sites": [
         {
             "key": "Douban",
@@ -340,16 +340,7 @@
         
         
        
-        {
-            "key": "CZ",
-            "name": "厂长｜影视",
-            "type": 3,
-            "api": "csp_CZ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": "https://www.czzymovie.com"
-        },
+        
         {
             "key": "wencai",
             "name": "🥇文才✨｜影视",
@@ -358,46 +349,8 @@
             "searchable": 1,
             "ext": "https://www.tjrongze.com,https://y2s52n7.com,https://m.hkybqufgh.com,https://m.sizhengxt.com,https://m.9zhoukj.com,https://m.jiabaide.cn"
         },
-        {
-            "key": "Guazi",
-            "name": "瓜子｜影视",
-            "type": 3,
-            "api": "csp_Guazi",
-            "searchable": 1
-        },
-        {
-            "key": "Zxzj",
-            "name": "在线｜影视",
-            "type": 3,
-            "api": "csp_Zxzj",
-            "searchable": 1,
-            "ext": "https://www.zxzjhd.com"
-        },
-        {
-            "key": "TvDy",
-            "name": "天堂｜影视",
-            "type": 3,
-            "api": "csp_TvDy",
-            "searchable": 1,
-            "filterable": 1
-        },
-        {
-            "key": "MqTv",
-            "name": "麻雀｜影视",
-            "type": 3,
-            "api": "csp_MqTv",
-            "searchable": 1,
-            "ext": "https://www.mqtv.cc"
-        },
-        {
-            "key": "Ikanbot",
-            "name": "爱看｜影视",
-            "type": 3,
-            "api": "csp_Ikanbot",
-            "searchable": 1,
-            "filterable": 0,
-            "ext": "{\"box\": \"TVBox\", \"danmu\": false}"
-        },
+        
+        
         {
             "key": "Hema",
             "name": "河马｜短剧",
