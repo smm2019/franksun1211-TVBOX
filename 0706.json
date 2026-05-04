@@ -1,8 +1,9 @@
+///////FROM MYER////////
 {
     "spider": "https://github.com/ls125781003/tvboxtg/raw/main/摸鱼儿/spider.jar",
-   "logo": "https://github.com/franksun1211/TVBOX/raw/main/sun.jpg",
-	"notice": "[0706JJ]CK20260504-E 🍏",
-    "wallpaper": "http://127.0.0.1:9978/proxy?do=wallpaper",
+    "wallpaper": "http://bobohome.ignorelist.com:20247/bing",
+    "logo": "https://github.com/franksun1211/TVBOX/raw/main/sun.jpg",
+	"notice": "[0706JJ]CK20260503-F 🍏",
     "sites": [
         {
             "key": "Douban",
@@ -29,7 +30,7 @@
             "quickSearch": 1,
             "filterable": 1
         },
-       {
+{
             "key": "UVod",
             "name": "🥇優視頻✨",
             "type": 3,
@@ -104,8 +105,27 @@
             "style": {
                 "type": "list"
             }
-        },	
-  {
+        },	        
+ {
+            "key": "Libvio",
+            "name": "立播｜4K",
+            "type": 3,
+            "api": "csp_Libvio",
+            "searchable": 1,
+"timeout": 90,
+            "changeable": 1,
+            "ext": {
+                "site": [
+                    "https://www.libvio.in",
+                    "https://www.libvio.la",
+                    "https://www.libvio.site",
+                    "https://www.libvio.mov"
+                ]
+            }
+        },
+        
+        
+        {
             "key": "FishLabi",
             "name": "蜡笔｜4K",
             "type": 3,
@@ -160,15 +180,14 @@
                 ]
             }
         },
-      
-       
+        
+        
         {
             "key": "PanTa",
             "name": "盘它｜4K",
             "type": 3,
             "api": "csp_PanTa",
             "searchable": 1,
-"timeout": 90,
             "changeable": 1
         },
         {
@@ -177,8 +196,8 @@
             "type": 3,
             "api": "csp_FishKF",
             "searchable": 1,
-            "quickSearch": 1,
 "timeout": 90,
+            "quickSearch": 1,
             "filterable": 1,
             "changeable": 1,
             "style": {
@@ -220,8 +239,8 @@
             "name": "盘吧｜4K",
             "type": 3,
             "api": "csp_YunPanBa",
-"timeout": 90,
             "searchable": 1,
+"timeout": 90,
             "ext": "https://yunpan6.com/"
         },
         {
@@ -240,8 +259,7 @@
 "timeout": 90,
             "api": "csp_SeedHub",
             "searchable": 1
-        },        
-
+        },
 {
             "key": "Wogg",
             "name": "玩偶｜4K",
@@ -249,8 +267,8 @@
             "api": "csp_Wogg",
             "searchable": 1,
             "changeable": 1,
+"timeout": 90,
             "filterable": 1,
-	"timeout": 90,
             "ext": {
                 "site": [
                     "https://wogg.xxooo.cf",
@@ -268,7 +286,7 @@
             "type": 3,
             "api": "csp_FishCloud",
             "searchable": 1,
-			"timeout": 90,
+"timeout": 90,
             "ext": {
                 "site": [
                     "https://123.666291.xyz",
@@ -278,6 +296,7 @@
                 ]
             }
         },
+       
         {
             "key": "ALLLive",
             "name": "星河｜共影",
@@ -450,38 +469,7 @@
             "changeable": 1,
             "ext": "AXKrbZM79eMAGzneN3Wkitxcf6NgrYa8FRcHB2RFYrIa1DzrMAA3EZXW6am5C78oAR/IcCmhk7ghFpBqEJ8/VC63AO40BE4oVlRZpiP8nHBpCnKhO9Ve26VcA8pR6Hj5NaeQHhkhkHLBDW4qlc86fpzDMK0o7K0sPvglsUwQxl6I4IDKDzXlVF4su1fy63GpLqrj+BMY1G2OjVsC6G7XBRg="
         },
-        
-        {
-            "key": "DianYingYunJi",
-            "name": "云集｜4K",
-            "type": 3,
-            "api": "csp_DianYingYunJi",
-            "searchable": 1,
-            "changeable": 1
-        },
-        {
-            "key": "YunPanBa",
-            "name": "盘吧｜4K",
-            "type": 3,
-            "api": "csp_YunPanBa",
-            "searchable": 1,
-            "ext": "https://yunpan6.com/"
-        },
-        {
-            "key": "YsSo",
-            "name": "奕搜｜4K",
-            "type": 3,
-            "api": "csp_YsSo",
-            "searchable": 1,
-            "ext": "https://ysso.cc"
-        },
-        {
-            "key": "SeedHub",
-            "name": "SeedHub｜4K",
-            "type": 3,
-            "api": "csp_SeedHub",
-            "searchable": 1
-        },
+       
         {
             "key": "CZ",
             "name": "厂长｜影视",
@@ -570,8 +558,7 @@
             "类型": "短剧",
             "filterable": 1
         },
-      
-		{
+        {
             "key": "番薯动漫",
             "name": "番薯丨动漫",
             "type": 3,
@@ -960,13 +947,6 @@
             ]
         }
     ],
-	
-
-///////////////=========================================////////////////////////////////////////////////////////////////////////	
-
-
-
-{"name": "🔐┃gshtwy直播","type":0,"url":"https://gh.catmak.name/https://raw.githubusercontent.com/gshtwy/MyTv/refs/heads/main/MyTv.m3u","playerType":1}],
     "ads": [
         "mimg.0c1q0l.cn",
         "www.googletagmanager.com",
