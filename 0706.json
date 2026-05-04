@@ -3,7 +3,7 @@
     "spider": "https://github.com/ls125781003/tvboxtg/raw/main/摸鱼儿/spider.jar",
     "wallpaper": "http://bobohome.ignorelist.com:20247/bing",
     "logo": "https://github.com/franksun1211/TVBOX/raw/main/sun.jpg",
-	"notice": "[0706JJ]CK20260503-K 🍏",
+	"notice": "[0706JJ]CK20260504 🍏",
     "sites": [
         {
             "key": "Douban",
@@ -58,12 +58,14 @@
 		"jar": "https://github.com/franksun1211/TVBOX/raw/main/APP/TVBoxOSC/tvbox/spider.jar",
             "ext": "https://github.com/franksun1211/TVBOX/raw/main/APP/TVBoxOSC/tvbox/JS/路漫漫.js"
         },
-	{
-            "key": "荐片",
+	 {
+            "key": "Jianpian",
             "name": "🥇荐片✨｜磁力",
-            "api": "csp_JianPian",
-            "type": 3
-        },	
+            "type": 3,
+            "api": "csp_Jianpian",
+            "searchable": 1,
+            "filterable": 1
+        },
 
 {
             "key": "原创",
@@ -591,14 +593,7 @@
             "filterable": 1,
             "ext": "N5u2FS3i/elUFAoSVYBznXUeEAt3X+JD9YKl5MjJCWQR4USFFmoQtTGE0mJDLVeOv00lc599YBqQsYAl+dw0i/1Jq4wgCPncJOqYhT21G0n+faZ/AOCfRq6fnnZcQCfX"
         },
-        {
-            "key": "Jianpian",
-            "name": "🥇賤荐✨｜磁力",
-            "type": 3,
-            "api": "csp_Jianpian",
-            "searchable": 1,
-            "filterable": 1
-        },
+       
         {
             "key": "Xb6v",
             "name": "6 V｜磁力",
