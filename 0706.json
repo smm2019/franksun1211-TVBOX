@@ -3,7 +3,7 @@
     "spider": "https://github.com/ls125781003/tvboxtg/raw/main/摸鱼儿/spider.jar",
     "wallpaper": "http://bobohome.ignorelist.com:20247/bing",
     "logo": "https://github.com/franksun1211/TVBOX/raw/main/sun.jpg",
-	"notice": "[0706JJ]CK20260503-F 🍏",
+	"notice": "[0706JJ]CK20260503-G 🍏",
     "sites": [
         {
             "key": "Douban",
@@ -296,7 +296,87 @@
                 ]
             }
         },
-       
+       /////////////////////////////
+ {
+            "key": "文采",
+            "name": "🥇文才✨┃FTY",
+            "type": 3,
+            "api": "csp_JpysGuard",
+            "timeout": 15,
+            "playerType": 2,
+            "searchable": 1,
+            "quickSearch": 1,
+			"jar": "https://github.com/ls125781003/tvboxtg/raw/refs/heads/main/%E9%A5%AD%E5%A4%AA%E7%A1%AC/spider.jar",
+			"changeable": 1
+        }, 
+		 {
+            "key": "韩圈",
+            "name": "🥇韩圈✨｜APP",
+            "type": 3,
+            "api": "csp_Hxq",
+            "ext": "https://fishapi.wya6.com/fish/fishhxq.php"
+        },      
+     
+       {
+            "key": "爱你影视",
+            "name": "✨爱你影视✨",
+            "type": 3,
+            "playerType": 2,
+            "api": "csp_XBPQ",
+            "jar": "https://github.com/franksun1211/TXT/raw/main/HTB/PG/jar/xyqxbpq.jar",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://github.com/franksun1211/TXT/raw/main/HTB/PG/json/爱你影视.json"
+        },
+        {
+            "key": "影视大全",
+            "name": "✨影视大全✨",
+            "type": 3,
+            "playerType": 2,
+            "api": "csp_XBPQ",
+            "jar": "https://github.com/franksun1211/TXT/raw/main/HTB/PG/jar/xyqxbpq.jar",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://github.com/franksun1211/TXT/raw/main/HTB/PG/json/影视大全.json"
+        },
+        
+
+        
+        
+     
+		
+		{
+            "key": "立播",
+            "name": "🥇LibVio✨┃FTY",
+            "type": 3,
+            "api": "csp_LibvioGuard",
+            "timeout": 15,
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+			"jar": "https://github.com/ls125781003/tvboxtg/raw/refs/heads/main/%E9%A5%AD%E5%A4%AA%E7%A1%AC/spider.jar",
+            "ext": {
+                "Cloud-drive": "http://127.0.0.1:9978/file/TVBox/Cloud-drive.txt",
+                "from": "4k|auto"
+            }
+        },
+        
+        
+
+{
+            "key": "云播",
+            "name": "🥇云播｜APP",
+            "type": 3,
+            "api": "csp_AppFox",
+            "searchable": 1,
+            "changeable": 1,
+            "ext": {
+                "host": "http://app.hktvyb.cc"
+            }
+        },
+		/////////////////////////////
         {
             "key": "ALLLive",
             "name": "星河｜共影",
